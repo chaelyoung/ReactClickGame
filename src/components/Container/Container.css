@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+  flex-flow: row wrap;
+  padding: 20px;
+  text-align: center;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+}
